@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Phong</h1>
+<h1 align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello%2C+I'm+Phong)](https://git.io/typing-svg)</h1>
 <h3 align="center">A developer from Vietnam</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moon2sun5&label=Profile%20views&color=0e75b6&style=flat-square" alt="moon2sun5" /> </p>
