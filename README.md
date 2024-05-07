@@ -2,8 +2,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moon2sun5&label=Profile%20views&color=0e75b6&style=flat-square" alt="moon2sun5" /> </p>
 
-- 🔭 I’m currently working on **ECLO POS**
-
 - 🌱 I’m currently learning **Java**
 
 - 📫 How to reach me **ngt.phongg@gmail.com**
