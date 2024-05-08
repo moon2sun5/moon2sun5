@@ -7,8 +7,8 @@
 ### 🌐 Socials:
 <p align="left">
 <a href="https://fb.com/moon2sun55" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294008-ed8de58b-d4d0-4790-aa81-a39fdc8a1e50.gif" alt="moon2sun55" height="30" width="40" /></a>
-<a href="https://instagram.com/tuitenlaphonq" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="tuitenlaphonq" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/moon2sun5" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294007-de441046-823e-4eff-89bf-d4df52858b65.gif" alt="moon2sun5" height="30" width="40" /></a>
+<a href="https://instagram.com/tuitenlaphonq" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="tuitenlaphonq" height="30" width="40" /></a>
 </p>
 
 [comment]: <> (Tech stack)
@@ -49,7 +49,11 @@
 
 [//]: <> (Stats)
 <div align="center">
-  <h3> My Contributions </h3>
+  <h3>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="25" height="25" />
+    My Contributions 
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="25" height="25" />
+  </h3>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/moon2sun5/moon2sun5/output/github-contribution-grid-snake.svg" />
   
