@@ -64,10 +64,8 @@
     My Contributions 
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="25" height="25" />
   </h3>
-
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/moon2sun5/moon2sun5/output/github-contribution-grid-snake.svg" />
-  
   <br/><br/><br/>
 </div>
 
