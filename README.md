@@ -48,7 +48,8 @@
   ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
 
   #Visitor count
-  ![](https://komarev.com/ghpvc/?username=moon2sun5)
+  ![:Visit count](https://count.getloli.com/get/@:moon2sun5?theme=moebooru)
+  
 --->
 
 [//]: <> (Stats)
@@ -80,5 +81,6 @@
 </div>
 
 ---
-![:name](https://count.getloli.com/get/@:moon2sun5?theme=moebooru)
-
+![](https://komarev.com/ghpvc/?username=moon2sun5)
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="25" height="25" /> 
+  
