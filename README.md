@@ -65,7 +65,7 @@
 --->
 
 [//]: <> (Stats)
-<div align="center">
+<!-- <div align="center">
   <h3>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="25" height="25" />
     My Contributions 
@@ -75,7 +75,7 @@
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/moon2sun5/moon2sun5/output/github-contribution-grid-snake.svg" />
   <br/><br/><br/>
-</div>
+</div> -->
 
 <h3>📊 GitHub Stats: </h3>
 <div align="left">
